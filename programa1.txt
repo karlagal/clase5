@@ -1,0 +1,10 @@
+INICIO
+
+    LEER hambre 
+
+    SI hambre === true ENTONCES
+        ESCRIBE “soy triste”    
+    SINO
+        ESCRIBE “soy feliz”
+    
+FIN

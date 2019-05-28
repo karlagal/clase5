@@ -1,0 +1,17 @@
+INICIO
+    LEER Dia
+
+    SI lunes o miercoles ENTONCES
+        ESCRIBE historia
+    SINO
+        SI martes ENTONCES
+            ESCRIBE natacion
+        SINO
+            SI jueves ENTONCES
+                ESCRIBE esgrima
+            SINO
+                ESCRIBE descanso
+            FIN SI
+        FIN SI
+    FIN SI
+FIN

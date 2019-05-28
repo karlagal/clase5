@@ -1,0 +1,11 @@
+INICIO
+
+  LEER nombre
+  LEER contraena
+
+Si nombre === "morita" && contrasena === "123" ENTONCES 
+        ESCRIBE abrir
+    SINO 
+        ESCRIBE incorrecto
+    FIN SI
+FIN
