@@ -1,9 +1,10 @@
-let nombre = "morita"
-let contrasena = "1234"
+function abrirRefrigerador (nombre , contrasena) { 
+    console.log (nombre , contrasena)
 
-if (nombre === "morita" && contrasena === "123") { // Si nombre === "morita" && contrasena === "123" ENTONCES 
-   console.log("abrir") //ESCRIBE abrir
-}   else { //SINO
-   
-   console.log("incorrecto") // ESCRIBE incorrecto
+if (nombre === "morita" && contrasena === 123) { 
+   console.log("abrir") }  
+ else { 
+   console.log("incorrecto") }
 }
+
+    abrirRefrigerador ("morita" , 1234)

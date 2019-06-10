@@ -1,0 +1,12 @@
+INICIO
+
+  LEER examen1
+  LEER examen2
+  LEER examen3
+
+Si promedio === >8.5 ENTONCES 
+        ESCRIBE premio
+    SINO 
+        ESCRIBE castigado
+    FIN SI
+FIN

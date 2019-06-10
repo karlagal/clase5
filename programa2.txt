@@ -1,0 +1,11 @@
+INICIO
+
+  LEER nivel
+
+  SI nivel < 10 ENTONCES
+    ESCRIBIR Aprendiz
+  SINO SI nivel < 20 ENTONCES
+    ESCRIBIR Acrobata
+  SINO 
+    ESCRIBIR Ninja
+FIN

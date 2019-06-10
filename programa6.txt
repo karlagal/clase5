@@ -1,0 +1,13 @@
+INICIO
+
+LEER apuesta ( shot1 && shot2 = mismo numero) {
+    ESCRIBIR "Ganaste"
+  SINO 
+    ESCRIBIR "perdiste"
+
+}
+
+
+
+Estoy jugando un juego de dados, gano si saco el mismo número en dos de los tres dados. 
+Descubre si gané o no.
